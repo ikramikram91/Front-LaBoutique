@@ -1,0 +1,30 @@
+
+body{
+  background-color:#343a40!important ;
+}
+
+
+.image {
+  display: flex;
+  justify-content:center;
+  width: 1220px;
+  height: 550px;
+}
+
+h2{
+  display: flex;
+  justify-content: end;
+  font-family: 'Dancing Script', cursive;
+  color: rgb(14, 13, 13);
+ 
+}
+.cc{
+  background-color:transparent;
+  border: none;
+}
+
+.visually-hidden{
+  color: black;
+}
+
+ 
